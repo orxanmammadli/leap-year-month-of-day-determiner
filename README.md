@@ -2,7 +2,7 @@
 
 # Instructions
 
-You will determine days_in_month function and with this function it will be be possible to print number of days for a given year baased on information if it is leap year or not.
+You will determine days_in_month function and with this function it will be be possible to print number of days for a given year baased on information if it is leap year or not(google parameters for leap year).
 
 ```
 days_in_month(year=2022, month=2)
